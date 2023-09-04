@@ -1,32 +1,13 @@
-// theme.js
-export default {
-  // colors: {
-  //   transparent: "transparent",
-  //   black: "#000",
-  //   // white: "#2A4365",
-  //   // gray: {
-  //   //   50: "red",
-  //   //   // ...
-  //   //   800: "red",
-  //   //   900: "red",
-  //   // },
-  //   body: {
-  //     bg: 'gray.200',
-  //     color: 'white',
-  //   },
-  //   // ...
-  // },
-  //   styles: {
-  //     global:{
-  //       body: {
+import { extendTheme } from '@chakra-ui/react'
 
-  //         colorScheme: 'red',
-  //     components: ['Button', 'Badge'],
-  //       },
-  //     },
-  //   },
+const config = {
+  initialColorMode: 'dark',
+  useSystemColorMode: false,
   fonts: {
     heading: `'Open Sans', sans-serif`,
     body: `'Raleway', sans-serif`,
   },
-};
+}
+const theme = extendTheme({ config })
+
+export default theme
