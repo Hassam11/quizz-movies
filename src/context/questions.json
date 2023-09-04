@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Science Fiction / Adventure",
+    "question": "Who directed 'Jurassic Park'?",
+    "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan"],
+    "correctOption": 0
+  },
+  {
+    "id": 2,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Science Fiction / Adventure",
+    "question": "What type of creatures are recreated in the park?",
+    "options": ["Dragons", "Dinosaurs", "Aliens"],
+    "correctOption": 1
+  },
+  {
+    "id": 3,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Science Fiction / Adventure",
+    "question": "On which island is the park located?",
+    "options": ["Isla Nublar", "Adventure Island", "Treasure Island"],
+    "correctOption": 0
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Science Fiction / Action",
+    "question": "Who plays the role of Neo?",
+    "options": ["Keanu Reeves", "Tom Hanks", "Will Smith"],
+    "correctOption": 0
+  },
+  {
+    "id": 5,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Science Fiction / Action",
+    "question": "What is the simulated reality called in the movie?",
+    "options": ["Virtual Land", "DreamScape", "The Matrix"],
+    "correctOption": 2
+  },
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Science Fiction / Action",
+    "question": "What color is often associated with the pill that offers a choice?",
+    "options": ["Red", "Blue", "Green"],
+    "correctOption": 0
+  },
+  {
+    "id": 7,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Science Fiction / Thriller",
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Christopher Nolan", "Martin Scorsese", "Quentin Tarantino"],
+    "correctOption": 0
+  },
+  {
+    "id": 8,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Science Fiction / Thriller",
+    "question": "What is the process of entering someone's dreams called?",
+    "options": ["Intrusion", "Inception", "Dreamweaving"],
+    "correctOption": 1
+  },
+  {
+    "id": 9,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Science Fiction / Thriller",
+    "question": "What do the main characters use to navigate within dreams?",
+    "options": ["Compass", "Map", "Totem"],
+    "correctOption": 2
+  },
+  {
+    "id": 10,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "genre": "Science Fiction / Fantasy",
+    "question": "Who is Luke Skywalker's father?",
+    "options": ["Darth Vader", "Emperor Palpatine", "Obi-Wan Kenobi"],
+    "correctOption": 0
+  },
+  {
+    "id": 11,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "genre": "Science Fiction / Fantasy",
+    "question": "What is the name of the weapon capable of destroying planets?",
+    "options": ["Star Blaster", "Death Star", "Galactic Annihilator"],
+    "correctOption": 1
+  },
+  {
+    "id": 12,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "genre": "Science Fiction / Fantasy",
+    "question": "Who is Princess Leia's biological brother?",
+    "options": ["Han Solo", "Obi-Wan Kenobi", "Luke Skywalker"],
+    "correctOption": 2
+  },
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "Who is entrusted with the One Ring?",
+    "options": ["Gandalf", "Aragorn", "Frodo Baggins"],
+    "correctOption": 2
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "What is the ultimate goal of the fellowship?",
+    "options": ["Destroy the Ring", "Capture Sauron", "Obtain Power"],
+    "correctOption": 0
+  },
+  {
+    "id": 15,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "What creature guides Frodo and Sam through the wilderness?",
+    "options": ["Ent", "Hobbit", "Gollum"],
+    "correctOption": 2
+  },
+  {
+    "id": 16,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Science Fiction / Adventure",
+    "question": "What is the name of the fictional planet in 'Avatar'?",
+    "options": ["Terra", "Pandora", "Avalon"],
+    "correctOption": 1
+  },
+  {
+    "id": 17,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Science Fiction / Adventure",
+    "question": "What is the valuable resource being extracted from Pandora?",
+    "options": ["Gold", "Unobtainium", "Diamonds"],
+    "correctOption": 1
+  },
+  {
+    "id": 19,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Science Fiction / Adventure",
+    "question": "What type of creatures do the Na'vi ride in the movie?",
+    "options": ["Horses", "Dragons", "Ikran"],
+    "correctOption": 2
+  },
+  {
+    "id": 20,
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genre": "Science Fiction / Family",
+    "question": "What is the name of the extraterrestrial in the movie?",
+    "options": ["E.T.", "Zog", "Xara"],
+    "correctOption": 0
+  },
+  {
+    "id": 21,
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genre": "Science Fiction / Family",
+    "question": "How does E.T. communicate?",
+    "options": ["Telepathy", "Sign Language", "Barking"],
+    "correctOption": 0
+  },
+  {
+    "id": 22,
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genre": "Science Fiction / Family",
+    "question": "What household item does E.T. use to help him 'phone home'?",
+    "options": ["Television", "Microwave", "Radio"],
+    "correctOption": 2
+  },
+  {
+    "id": 23,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "Which house is Harry Potter sorted into at Hogwarts?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw"],
+    "correctOption": 0
+  },
+  {
+    "id": 24,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "What is the name of the three-headed dog guarding the trapdoor?",
+    "options": ["Fluffy", "Fang", "Cerberus"],
+    "correctOption": 0
+  },
+  {
+    "id": 25,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Fantasy / Adventure",
+    "question": "Who is revealed to be the true owner of the Sorcerer's Stone?",
+    "options": ["Dumbledore", "Voldemort", "Nicolas Flamel"],
+    "correctOption": 2
+  },
+  {
+    "id": 26,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": "Science Fiction / Adventure",
+    "question": "What is the name of the time machine?",
+    "options": ["Time Cruiser", "Tempus Sphere", "DeLorean"],
+    "correctOption": 2
+  },
+  {
+    "id": 26,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": "Science Fiction / Adventure",
+    "question": "Which decade does Marty McFly travel back to?",
+    "options": ["1950s", "1970s", "1980s"],
+    "correctOption": 0
+  },
+  {
+    "id": 26,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": "Science Fiction / Adventure",
+    "question": "What is the consequence of disrupting the past?",
+    "options": ["Alternate Reality", "Time Loop", "Temporal Paradox"],
+    "correctOption": 2
+  },
+  {
+    "id": 27,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genre": "Science Fiction / Action",
+    "question": "Which famous actor voices Rocket the Raccoon?",
+    "options": ["Brad Pitt", "Vin Diesel", "Bradley Cooper"],
+    "correctOption": 2
+  },
+  {
+    "id": 28,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genre": "Science Fiction / Action",
+    "question": "What is the name of the Infinity Stone in the movie?",
+    "options": ["Time Stone", "Power Stone", "Orb"],
+    "correctOption": 1
+  },
+  {
+    "id": 29,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "genre": "Science Fiction / Action",
+    "question": "What classic cassette tape does Peter Quill carry with him?",
+    "options": ["Rock Hits", "Awesome Mix Vol. 1", "80s Jams"],
+    "correctOption": 1
+  },
+  {
+    "id": 30,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "question": "Who plays the role of Andy Dufresne?",
+    "options": ["Morgan Freeman", "Tim Robbins", "Tom Hanks"],
+    "correctOption": 1
+  },
+  {
+    "id": 31,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "question": "In which prison does most of the movie take place?",
+    "options": ["Alcatraz", "Rikers Island", "Shawshank State Penitentiary"],
+    "correctOption": 2
+  },
+  {
+    "id": 32,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "question": "What does Andy use to slowly dig his way to freedom?",
+    "options": ["Spoon", "Rock Hammer", "Shovel"],
+    "correctOption": 1
+  },
+  {
+    "id": 33,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime / Drama",
+    "question": "Who directed 'Pulp Fiction'?",
+    "options": ["Martin Scorsese", "Quentin Tarantino", "David Fincher"],
+    "correctOption": 1
+  },
+  {
+    "id": 34,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime / Drama",
+    "question": "What is the name of Samuel L. Jackson's character?",
+    "options": ["Marsellus Wallace", "Jules Winnfield", "Vincent Vega"],
+    "correctOption": 1
+  },
+  {
+    "id": 35,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime / Drama",
+    "question": "What is inside the briefcase that everyone is after?",
+    "options": ["Gold Bars", "Diamonds", "Mysterious Light"],
+    "correctOption": 2
+  },
+  {
+    "id": 36,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama / Romance",
+    "question": "What is Forrest Gump's famous catchphrase?",
+    "options": [
+      "Life is a journey.",
+      "Stupid is as stupid does.",
+      "Run, Forrest, run!"
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 37,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama / Romance",
+    "question": "Which historical event does Forrest unintentionally participate in?",
+    "options": ["Woodstock Festival", "Moon Landing", "Civil Rights March"],
+    "correctOption": 1
+  },
+  {
+    "id": 38,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama / Romance",
+    "question": "What sport does Forrest excel in?",
+    "options": ["Basketball", "Golf", "Running"],
+    "correctOption": 2
+  },
+  {
+    "id": 39,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action / Crime",
+    "question": "Who plays the role of Batman?",
+    "options": ["Christian Bale", "Robert Downey Jr.", "Hugh Jackman"],
+    "correctOption": 0
+  },
+  {
+    "id": 40,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action / Crime",
+    "question": "Who is the main antagonist in the movie?",
+    "options": ["Joker", "Penguin", "Riddler"],
+    "correctOption": 0
+  },
+  {
+    "id": 41,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action / Crime",
+    "question": "What is the Joker's famous line?",
+    "options": [
+      "Why so serious?",
+      "I'm the king of the world!",
+      "I'll be back."
+    ],
+    "correctOption": 0
+  },
+  {
+    "id": 42,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genre": "War / Drama",
+    "question": "Who directed 'Inglourious Basterds'?",
+    "options": ["Steven Spielberg", "Quentin Tarantino", "Christopher Nolan"],
+    "correctOption": 1
+  },
+  {
+    "id": 43,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genre": "War / Drama",
+    "question": "What is the group led by Lieutenant Aldo Raine known as?",
+    "options": ["Allied Assassins", "Nazi Hunters", "Basterds"],
+    "correctOption": 2
+  },
+  {
+    "id": 44,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genre": "War / Drama",
+    "question": "What is the title of the film being shown in the final scene?",
+    "options": ["A Nation's Pride", "The Big Red One", "Saving Private Ryan"],
+    "correctOption": 0
+  },
+  {
+    "id": 45,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Action / Adventure",
+    "question": "Who is the main villain in 'The Avengers'?",
+    "options": ["Loki", "Red Skull", "Thanos"],
+    "correctOption": 0
+  },
+  {
+    "id": 46,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Action / Adventure",
+    "question": "Which hero wields a shield as their primary weapon?",
+    "options": ["Thor", "Iron Man", "Captain America"],
+    "correctOption": 2
+  },
+  {
+    "id": 47,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Action / Adventure",
+    "question": "What is the name of the organization that brings the Avengers together?",
+    "options": ["S.H.I.E.L.D.", "H.Y.D.R.A.", "A.I.M."],
+    "correctOption": 0
+  },
+  {
+    "id": 48,
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "genre": "Drama / Romance",
+    "question": "Who plays the title role of Jay Gatsby?",
+    "options": ["Leonardo DiCaprio", "Brad Pitt", "Johnny Depp"],
+    "correctOption": 0
+  },
+  {
+    "id": 48,
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "genre": "Drama / Romance",
+    "question": "In which decade is the story of 'The Great Gatsby' set?",
+    "options": ["1920s", "1950s", "1930s"],
+    "correctOption": 0
+  },
+  {
+    "id": 48,
+    "title": "The Great Gatsby",
+    "year": 2013,
+    "genre": "Drama / Romance",
+    "question": "What is Gatsby's ultimate goal?",
+    "options": ["Amass wealth", "Win a horse race", "Reunite with Daisy"],
+    "correctOption": 2
+  },
+  {
+    "id": 49,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Action / Adventure",
+    "question": "Who plays the role of Max Rockatansky?",
+    "options": ["Tom Hardy", "Chris Hemsworth", "Hugh Jackman"],
+    "correctOption": 0
+  },
+  {
+    "id": 50,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Action / Adventure",
+    "question": "What is the primary mode of transportation in the movie?",
+    "options": ["Cars", "Bicycles", "Motorcycles"],
+    "correctOption": 0
+  },
+  {
+    "id": 51,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Action / Adventure",
+    "question": "Who is leading the group of women seeking refuge?",
+    "options": ["Furiosa", "Rita", "Imperator"],
+    "correctOption": 0
+  },
+  {
+    "id": 52,
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "Musical / Romance",
+    "question": "Who are the two main characters in 'La La Land'?",
+    "options": [
+      "Emma Watson and Ryan Reynolds",
+      "Jennifer Lawrence and Bradley Cooper",
+      "Emma Stone and Ryan Gosling"
+    ],
+    "correctOption": 2
+  },
+  {
+    "id": 53,
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "Musical / Romance",
+    "question": "What is Mia's dream profession?",
+    "options": ["Actress", "Pianist", "Writer"],
+    "correctOption": 0
+  },
+  {
+    "id": 54,
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "Musical / Romance",
+    "question": "Which city does most of the story take place in?",
+    "options": ["New York City", "Los Angeles", "Chicago"],
+    "correctOption": 1
+  },
+  {
+    "id": 55,
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": "Action / Superhero",
+    "question": "What is the name of the hidden, technologically advanced African nation in the movie?",
+    "options": ["Zamunda", "Wakanda", "Genovia"],
+    "correctOption": 1
+  },
+  {
+    "id": 56,
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": "Action / Superhero",
+    "question": "Who becomes the Black Panther?",
+    "options": ["T'Chaka", "Erik Killmonger", "T'Challa"],
+    "correctOption": 2
+  },
+  {
+    "id": 57,
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": "Action / Superhero",
+    "question": "What precious metal is found in abundance in Wakanda?",
+    "options": ["Gold", "Platinum", "Vibranium"],
+    "correctOption": 2
+  }
+]
