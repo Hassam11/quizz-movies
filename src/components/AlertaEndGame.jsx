@@ -44,7 +44,7 @@ export default function AlertaEndGame({ endGame, setEndGame }) {
                 colorScheme="whatsapp"
                 onClick={() => setEndGame(false)}
               >
-                Play
+                PLAY
               </Button>
             </a>
               <Button
@@ -52,7 +52,7 @@ export default function AlertaEndGame({ endGame, setEndGame }) {
                 colorScheme="whatsapp"
                 onClick={() => setEndGame(false)}
               >
-                Close
+                CLOSE
               </Button>
             </Flex>
           </AlertDialogFooter>
