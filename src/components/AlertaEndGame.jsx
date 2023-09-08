@@ -37,13 +37,16 @@ export default function AlertaEndGame({ endGame, setEndGame }) {
           </AlertDialogBody>
           <AlertDialogFooter>
             <Flex justifyContent={"space-between"} gap={30}>
+            <a href="/">
               <Button
                 fontSize={"2xl"}
+                p={2}
                 colorScheme="whatsapp"
                 onClick={() => setEndGame(false)}
               >
-                <a href="/">Play</a>
+                Play
               </Button>
+            </a>
               <Button
                 fontSize={"2xl"}
                 colorScheme="whatsapp"
