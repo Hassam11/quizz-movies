@@ -37,7 +37,7 @@ export default function AlertaEndGame({ endGame, setEndGame }) {
           </AlertDialogBody>
           <AlertDialogFooter>
             <Flex justifyContent={"space-between"} gap={30}>
-            <a href="/">
+            <a href="/" fontSize={"5xl"}>
               <Button
                 fontSize={"2xl"}
                 p={2}
